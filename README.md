@@ -10,6 +10,17 @@
 ### 링크 연결하기
 * 링크 : [이동](https://discord.com/channels/1247004488104017940/1341220329065943100)
 
+### 이미지 넣기
+<img src='' width=30 height=30>
+
+### 코드 넣기
+```
+print("Hello! World!")
+```
+
+### 표 넣기
+| Left Align(default) | Center Align | Right Allign |
+
 
 ## Hi there 👋
 
