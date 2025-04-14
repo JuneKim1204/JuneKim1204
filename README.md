@@ -11,19 +11,30 @@
 ### 📫 논문
 * Attention is all you need
 
-### 링크 연결하기
-* 링크 : [이동](https://discord.com/channels/1247004488104017940/1341220329065943100)
+### 😄 프로젝트
+* Streamlit App 만들기
+* Kaggle Titanic 데이터 분석
+* 판다스 연습
+  '''
+  from pandas import Series, DataFrame
 
-### 이미지 넣기
-<img src='' width=30 height=30>
+print('===================')
+# Series 생성
+score = Series( [1000, 14000, 3000, 3000, 1000] )
+print("자료형 확인 : ", type(score))
 
-### 코드 넣기
+# Series 인덱스 확인
+print(score.index)
+
+# Series 값 확인
+print(score.values)
+
+# Series 값 자료형 확인
+print(score.dtype)
+  '''
 ```
 print("Hello! World!")
 ```
-
-### 표 넣기
-| Left Align(default) | Center Align | Right Allign |
 
 
 ## Hi there 👋
