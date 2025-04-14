@@ -15,25 +15,22 @@
 * Streamlit App 만들기
 * Kaggle Titanic 데이터 분석
 * 판다스 연습
-  '''
-  from pandas import Series, DataFrame
+```
+from pandas import Series, DataFrame
 
 print('===================')
-# Series 생성
+## Series 생성
 score = Series( [1000, 14000, 3000, 3000, 1000] )
 print("자료형 확인 : ", type(score))
 
-# Series 인덱스 확인
+## Series 인덱스 확인
 print(score.index)
 
-# Series 값 확인
+## Series 값 확인
 print(score.values)
 
-# Series 값 자료형 확인
+## Series 값 자료형 확인
 print(score.dtype)
-  '''
-```
-print("Hello! World!")
 ```
 
 
